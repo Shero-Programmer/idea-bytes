@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.heading {
+  background-color: bisque;
+}
+.heading h3 {
+  text-align: center;
+  padding: 15px 0;
+}
+
+.idea-list {
+  margin-top: 20px;
+}
